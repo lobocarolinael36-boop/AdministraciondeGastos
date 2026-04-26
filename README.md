@@ -1,4 +1,4 @@
-# 🏠 CasaFlow
+# 🏠 Administracion de Gastos del Hogar
 
 Gestor de gastos compartidos con IA y **Telegram**.
 Cargás tus gastos por chat, la IA los entiende, todo queda organizado.
